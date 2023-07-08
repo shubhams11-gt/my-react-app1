@@ -1,0 +1,8 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  background-color: rgba(95, 167, 167, 0.473);
+  font-family: 'Courier New', Courier, monospace;
+}
